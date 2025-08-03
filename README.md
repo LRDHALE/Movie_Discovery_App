@@ -17,8 +17,8 @@ A sleek and dynamic movie discovery platform where users can search for any movi
 ## 🖼️ Screenshots
 
 ![Home Page](public/screenshots/home.png)
-![Search Results](public/screenshots/search.png)
 ![Trending Movies](public/screenshots/trending.png)
+![Search Results](public/screenshots/search.png)
 
 ---
 
