@@ -1,14 +1,10 @@
-version: "1"
 services:
-- type: web
-  name: Movie_Discovery_App
-  runtime: node
-  repo: https://github.com/LRDHALE/Movie_Discovery_App
-  plan: free
-  envVars:
-  - key: NODE_ENV
-    sync: false
-  region: oregon
-  buildCommand: npm install
-  startCommand: npx nodemon
-  autoDeployTrigger: commit
+  - type: web
+    name: Movie_Discovery_App
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npx nodemon
+    envVars:
+      - key: NODE_ENV
+        value: production
