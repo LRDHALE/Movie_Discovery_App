@@ -10,5 +10,5 @@ services:
     sync: false
   region: oregon
   buildCommand: npm install
-  startCommand: npx nodemon
-  autoDeployTrigger: commit
+  startCommand: npm start
+  autoDeployTrigger: true
