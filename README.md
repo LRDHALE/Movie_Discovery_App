@@ -24,7 +24,7 @@ A sleek and dynamic movie discovery platform where users can search for any movi
 
 ## 🌐 Live Preview
 
-[View Live Demo](https://your-live-preview-link.com)
+[View Live Demo](https://movie-discovery-app-1.onrender.com/)
 
 ---
 
